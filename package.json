@@ -19,6 +19,7 @@
     "hono-rate-limiter": "^0.4.2",
     "mongoose": "^8.16.0",
     "nanoid": "^5.1.5",
+    "sharp": "^0.34.2",
     "zod": "^3.25.67"
   }
 }
